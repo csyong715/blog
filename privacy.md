@@ -1,9 +1,4 @@
----
-title: World Batting Competition Privacy Policy
-category: games
----
-
-# Privacy Policy
+# "World Batting Competition" Privacy Policy
 
 Last updated: January 19, 2022
 
